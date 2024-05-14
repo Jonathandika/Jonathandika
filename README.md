@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jonathan, a data scientist based on Hong Kong. I have a strong background in computer science and I am very interested in data science and AI. Feel free to reach me out for collaboration.
+I'm Jonathan, a data scientist based on Hong Kong. I have a strong background in computer science, machine learning, and deep learning and I am very interested in AI and technology development. Feel free to reach me out for collaboration.
 
 ### Tech Experiences 🔭
 - **Data Processing and Analysis:** NumPy, Pandas, SQL
